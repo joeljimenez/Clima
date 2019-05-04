@@ -4,4 +4,4 @@
 
 # npm install i axios
 
-npm install
+# npm install
